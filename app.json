@@ -20,7 +20,8 @@
     ],
     "ios": {
       "buildNumber": "1.0.0",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kwauben.myrecipebook"
     },
     "android": {
       "versionCode": 1,
